@@ -1,11 +1,7 @@
 <h1 align="center">Hello, I'm Anubhab Debnath</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhabx&label=Profile%20views&color=0e75b6&style=flat" alt="anubhabx" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anubhabx" alt="anubhabx" /></a> </p>
-
-- 🔭 I’m currently working on **a MERN stack blog app**
+- 🔭 I’m currently working on **learing the MERN stack.**
 
 - 🌱 I’m currently learning **Redux and NextJS**
 
