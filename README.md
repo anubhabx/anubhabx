@@ -60,7 +60,7 @@
 ###
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/KvSFHTEmmzcAAAAd/michael-scott-the-office.gif" alt="Michael Scott GIF" align="center" height="250" />
+  <img src="(https://backend.codecrafters.io/progress/dns-server/f96846f0-389f-4b6e-95f4-e3c2febdbd6b)" alt="Michael Scott GIF" align="center" height="250" />
 </div>
 
 ###
