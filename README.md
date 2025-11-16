@@ -1,66 +1,84 @@
-<h1 align="center">Hello, I'm Anubhab Debnath</h1>
-<h3 align="center">A passionate Full-Stack Developer from India</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&width=600&height=70&lines=Hey+there%2C+I'm+Anubhab+%F0%9F%91%8B;Full-Stack+Developer+%E2%9A%A1;Building+the+Future" alt="Typing SVG" />
+</div>
 
-<br />
-
-- 🔭 I’m currently working on **learing the MERN stack.**
-
-- 🌱 I’m currently learning **Redux and NextJS**
-
-- 🤝 I’m looking for help with **Full-Stack Development**
-
-- 💬 Ask me about **React, MongoDB, Express**
-
-- 📫 How to reach me **anubhabdebnath98@gmail.com**
-
-- ⚡ Fun fact **I think I am funny.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="mailto:anubhabdebnath98@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/anubhabx">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/anubhabx">
+    <img src="https://komarev.com/ghpvc/?username=anubhabx&style=for-the-badge&color=blueviolet" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-###
+### 🚀 About Me
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
-</div>
+```typescript
+const anubhab = {
+  location: "India",
+  role: "Full-Stack Developer",
+  currentFocus: ["SaaS Development"],
+  learning: ["Advanced ML Optimization", "System Design", "Cloud Architecture"],
+  askMeAbout: ["Web Development", "Next.js", "Python"],
+  funFact: "I play chess in my free time ♟️"
+};
+```
 
-###
+---
 
-<div align="center">
-  <img src="https://backend.codecrafters.io/progress/dns-server/f96846f0-389f-4b6e-95f4-e3c2febdbd6b" alt="CodeCrafters DNS server TS progress" align="center" height="auto" />
-</div>
+### 🛠️ Tech Stack
 
-###
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,python,mongodb,postgres,prisma,docker,aws,git,github,tailwind,vite,vercel" alt="Tech Stack" />
+</p>
+
+**Languages & Frameworks**
+- 💻 TypeScript, JavaScript, Python, Java, Bash
+- ⚛️ React, Next.js, Node.js, Express
+- 🎨 TailwindCSS, ShadCN/UI
+
+**DevOps & Infrastructure**
+- 🐳 Docker, Turborepo, Monorepo Architecture
+- ☁️ AWS Lambda, Render, Appwrite, Vercel
+- 🗄️ MongoDB, PostgreSQL, Prisma ORM
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anubhabx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anubhabx&theme=tokyonight&hide_border=true&background=0d1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub Streak" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anubhabx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3B82F6&text_color=c9d1d9" alt="Top Languages" />
+</p>
+
+---
+
+### 🎯 Current Projects
+
+- 🔍 **Tresta** - SaaS status monitoring service with real-time alerts
+- 💬 **Testimonial Platform** - Seamless testimonial collection and management
+- 🛠️ **Social Media Automation** - Tools for efficient content management
+
+---
+
+### 🌱 What I'm Up To
+
+- 🏗️ Building scalable SaaS products with Next.js & TypeScript
+- 📚 Learning advanced cloud architecture
+- 🎮 Experimenting with game development in Unity & C#
+- ♟️ Playing chess and contributing to open source
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" />
+</p>
